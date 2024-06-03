@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vedika Chauhan</h1>
-<h3 align="center">Fullstack Developer!</h3>
+<h3 align="center">Backend Developer!</h3>
 <p align='center'>
 <img align = "right alt = "coding" width = "400" src = "https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47kywzev2elyxu9y3pdkqo5uae9rd06pt2gfuw4s3u&rid=giphy.gif&ct=g">
 </p>
-- 🔭 I’m currently working on ReactJS and Django
+- 🔭 I’m currently working on Flask and Machine Learning Models
 
 - 📫 How to reach me vedikachauhan2002@gmail.com
 
-- ⚡ Fun fact | Linux >>>> 🙂
 
 Here is a bit more detailed graph showing my contributions in the past year:
 
